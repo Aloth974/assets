@@ -1,7 +1,7 @@
 # Art direction
 
 Sanitized copy of Apolarion's internal art direction, synced from private revision
-`ba32d3c`. Every asset submitted here is judged against it.
+`d208aae`. Every asset submitted here is judged against it.
 
 ## The direction
 
@@ -72,15 +72,27 @@ a hand holds not at all:
 
 An icon is one subject, at most one modifier and a quiet background.
 
+- **One subject, cropped close:** paint one object or one close crop that stands for the
+  brief: a hand and weapon, a head, a boot, a crystal. Never two actors, a full body, a
+  mount with its rider, or a scene with ground and sky. The subject fills 60–80 % of the
+  canvas.
 - **First read:** one dominant silhouette names the item, action or state at 24–32 px.
-  Material and tier are second reads.
-- **Second read:** one direction, target or state cue. Texture and wear reward a larger
-  view but never carry the identity. Hue is never the only meaning.
+  Material and tier are second reads. The identity lives in the outline: a generic
+  outline (a round loaf, a blank sheet) fails even when texture or fine line work would
+  name it, since both vanish below 64 px.
+- **Second read:** at most one direction, target or state cue, no more than a quarter of
+  the subject's size and darker than it. Glow, particles and trails never match the
+  subject's brightness or reach the edges. Hue is never the only meaning.
+- **Contrast:** the subject separates from the background in value first, then hue; a
+  violet subject on a violet background fails. Check every icon shrunk to 32 px in
+  grayscale: it must show one clear mass.
 - **Light and material:** one upper-left key light and cool violet bounce. Steel, cloth,
   wood, stone, glass, ice and essence keep distinct value and surface behaviour. Warm gold
   is not a mandatory rim on cold materials.
 - **Family grammar:** weapons share one diagonal, pommel low-left, working end dominant;
-  consumables and resources show the object before its effect; abilities show the actual
+  consumables and resources show the object before its effect;
+  recipes, patterns and plans paint their product solid and large in front of a rolled
+  sheet, never as a line drawing on it; abilities show the actual
   action; buffs enclose or rise, debuffs interrupt, bind, crack or fall; interface marks
   use fewer details than items.
 - **Gear views:** helm front with face opening; pauldrons as a pair on a faint bust; chest

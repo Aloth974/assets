@@ -30,10 +30,13 @@ Paste one in front of the brief's description.
 
 ```text
 Square opaque 512 by 512 game icon for Apolarion, a stylised hand-painted fantasy MMO,
-in the style of World of Warcraft icons. One dominant subject readable as a flat silhouette
-at 32 px, one upper-left warm key light and cool violet bounce, bold painterly brushwork,
-no pure black. Background painted into every corner. No border, frame, text, letters,
-watermark or transparency.
+in the style of World of Warcraft icons. ONE subject, cropped close, filling 70% of the
+canvas, readable as a flat silhouette at 32 px; no scene, no ground or sky, no full body,
+no second figure. At most one small secondary cue, darker than the subject. Subject clearly
+lighter or darker than the quiet deep plum background. One upper-left warm key light and
+cool violet bounce, bold painterly brushwork, few large value shapes, no pure black.
+Background painted into every corner. No border, frame, text, letters, watermark or
+transparency.
 ```
 
 **Texture:**
